@@ -73,13 +73,13 @@ A veces Meta pide una, otra, o ambas.
 
 ## 🔗 Documentación oficial
 
-- **Verificación de negocio (para desarrolladores)** — [developers.facebook.com/docs/development/release/business-verification](https://developers.facebook.com/docs/development/release/business-verification/)
-- **Subir documentos oficiales para verificar tu negocio** — [facebook.com/business/help/159334372093366](https://www.facebook.com/business/help/159334372093366)
-- **Centro de seguridad / Business Help Center** — [facebook.com/business/help](https://www.facebook.com/business/help)
+- **Verificación de negocio (para desarrolladores)** — <a href="https://developers.facebook.com/docs/development/release/business-verification/" target="_blank" rel="noopener">developers.facebook.com/docs/development/release/business-verification</a>
+- **Subir documentos oficiales para verificar tu negocio** — <a href="https://www.facebook.com/business/help/159334372093366" target="_blank" rel="noopener">facebook.com/business/help/159334372093366</a>
+- **Centro de seguridad / Business Help Center** — <a href="https://www.facebook.com/business/help" target="_blank" rel="noopener">facebook.com/business/help</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Cursos gratis de Meta Blueprint** (busca "verificación" / "Business Manager") — [facebookblueprint.com (cursos gratis)](https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog)
+- **Cursos gratis de Meta Blueprint** (busca "verificación" / "Business Manager") — <a href="https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog" target="_blank" rel="noopener">facebookblueprint.com (cursos gratis)</a>
 
 ---
 

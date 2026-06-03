@@ -81,17 +81,17 @@ sano; el spam lo enferma.
 
 ## 🔗 Documentación oficial
 
-- **Política de Mensajería de WhatsApp Business** — [whatsappbusiness.com/policy](https://whatsappbusiness.com/policy/)
-- **Términos de WhatsApp Business** — [whatsapp.com/legal/business-terms](https://www.whatsapp.com/legal/business-terms)
-- **Términos de Meta para WhatsApp Business** — [whatsapp.com/legal/meta-terms-whatsapp-business](https://www.whatsapp.com/legal/meta-terms-whatsapp-business)
-- **Política de Comercio** — en la sección legal de WhatsApp: [whatsapp.com/legal](https://www.whatsapp.com/legal/)
-- **Cómo obtener opt-in** — [developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in](https://developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in)
-- **Aplicación de políticas y spam** — [developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement](https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement)
+- **Política de Mensajería de WhatsApp Business** — <a href="https://whatsappbusiness.com/policy/" target="_blank" rel="noopener">whatsappbusiness.com/policy</a>
+- **Términos de WhatsApp Business** — <a href="https://www.whatsapp.com/legal/business-terms" target="_blank" rel="noopener">whatsapp.com/legal/business-terms</a>
+- **Términos de Meta para WhatsApp Business** — <a href="https://www.whatsapp.com/legal/meta-terms-whatsapp-business" target="_blank" rel="noopener">whatsapp.com/legal/meta-terms-whatsapp-business</a>
+- **Política de Comercio** — en la sección legal de WhatsApp: <a href="https://www.whatsapp.com/legal/" target="_blank" rel="noopener">whatsapp.com/legal</a>
+- **Cómo obtener opt-in** — <a href="https://developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in" target="_blank" rel="noopener">developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in</a>
+- **Aplicación de políticas y spam** — <a href="https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement" target="_blank" rel="noopener">developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Documentación de plataforma de WhatsApp Business** — [developers.facebook.com/docs/whatsapp](https://developers.facebook.com/docs/whatsapp)
-- **Cursos gratis de Meta Blueprint** — [facebookblueprint.com (cursos gratis)](https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog)
+- **Documentación de plataforma de WhatsApp Business** — <a href="https://developers.facebook.com/docs/whatsapp" target="_blank" rel="noopener">developers.facebook.com/docs/whatsapp</a>
+- **Cursos gratis de Meta Blueprint** — <a href="https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog" target="_blank" rel="noopener">facebookblueprint.com (cursos gratis)</a>
 
 ---
 

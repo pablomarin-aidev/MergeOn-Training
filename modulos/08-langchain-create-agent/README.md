@@ -107,13 +107,13 @@ saber que existen y dan poder.
 
 ## 🔗 Documentación oficial
 
-- **Agentes en LangChain (guía)** — [docs.langchain.com/oss/python/langchain/agents](https://docs.langchain.com/oss/python/langchain/agents)
-- **Referencia de `create_agent`** — [reference.langchain.com/python/langchain/agents/factory/create_agent](https://reference.langchain.com/python/langchain/agents/factory/create_agent)
+- **Agentes en LangChain (guía)** — <a href="https://docs.langchain.com/oss/python/langchain/agents" target="_blank" rel="noopener">docs.langchain.com/oss/python/langchain/agents</a>
+- **Referencia de `create_agent`** — <a href="https://reference.langchain.com/python/langchain/agents/factory/create_agent" target="_blank" rel="noopener">reference.langchain.com/python/langchain/agents/factory/create_agent</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Functions, Tools and Agents with LangChain — DeepLearning.AI** — [deeplearning.ai/courses/functions-tools-agents-langchain](https://www.deeplearning.ai/courses/functions-tools-agents-langchain)
-- **AI Agents in LangGraph — DeepLearning.AI** — [deeplearning.ai/courses/ai-agents-in-langgraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph)
+- **Functions, Tools and Agents with LangChain — DeepLearning.AI** — <a href="https://www.deeplearning.ai/courses/functions-tools-agents-langchain" target="_blank" rel="noopener">deeplearning.ai/courses/functions-tools-agents-langchain</a>
+- **AI Agents in LangGraph — DeepLearning.AI** — <a href="https://www.deeplearning.ai/courses/ai-agents-in-langgraph" target="_blank" rel="noopener">deeplearning.ai/courses/ai-agents-in-langgraph</a>
 
 ---
 

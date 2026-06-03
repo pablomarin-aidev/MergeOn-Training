@@ -73,9 +73,9 @@ Sigue el orden. Cada módulo se apoya en el anterior.
 
 | Necesitas | Para qué | Cómo conseguirlo |
 |---|---|---|
-| Cuenta de Claude (Pro, Max, Team o Console) | Usar Claude Code como tutor | [claude.ai](https://claude.ai) |
+| Cuenta de Claude (Pro, Max, Team o Console) | Usar Claude Code como tutor | <a href="https://claude.ai" target="_blank" rel="noopener">claude.ai</a> |
 | Claude Code instalado | Abrir este curso y estudiar | Ver instalación abajo |
-| Python 3.10 o superior | Solo para los módulos 8 y 9 (práctica de código) | [python.org/downloads](https://www.python.org/downloads/) |
+| Python 3.10 o superior | Solo para los módulos 8 y 9 (práctica de código) | <a href="https://www.python.org/downloads/" target="_blank" rel="noopener">python.org/downloads</a> |
 
 > El plan **gratis** de Claude.ai **no** incluye Claude Code. Necesitas un plan de pago.
 
@@ -85,7 +85,7 @@ Sigue el orden. Cada módulo se apoya en el anterior.
 
 ### 1. Instala Claude Code
 
-Sigue la guía oficial: **[code.claude.com/docs/en/setup](https://code.claude.com/docs/en/setup)**
+Sigue la guía oficial: **<a href="https://code.claude.com/docs/en/setup" target="_blank" rel="noopener">code.claude.com/docs/en/setup</a>**
 
 Resumen rápido:
 - **Windows / Mac / Linux:** usa el instalador nativo (no requiere nada más).

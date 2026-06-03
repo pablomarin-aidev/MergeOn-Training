@@ -71,7 +71,7 @@ contraseña: te da acceso a lo que necesitas y te lo quita cuando quiera.
 
 ### 5. Cómo se crea (a grandes rasgos)
 
-1. Entras a **[business.facebook.com](https://business.facebook.com)**.
+1. Entras a **<a href="https://business.facebook.com" target="_blank" rel="noopener">business.facebook.com</a>**.
 2. Creas el portafolio con el **nombre real del negocio**.
 3. Agregas o reclamas los activos (página, Instagram, WhatsApp, cuenta publicitaria).
 4. Invitas a las personas y les asignas roles.
@@ -83,21 +83,21 @@ contraseña: te da acceso a lo que necesitas y te lo quita cuando quiera.
 
 ## 🔗 Documentación oficial
 
-- **Crear un portafolio comercial** — [facebook.com/business/help/1710077379203657](https://www.facebook.com/business/help/1710077379203657)
-- **Acerca de los portafolios comerciales** — [facebook.com/business/help/486932075688253](https://www.facebook.com/business/help/486932075688253)
-- **Centro de ayuda para empresas de Meta** — [facebook.com/business/help](https://www.facebook.com/business/help)
-- **Entrar a Business Suite / Business Manager** — [business.facebook.com](https://business.facebook.com)
+- **Crear un portafolio comercial** — <a href="https://www.facebook.com/business/help/1710077379203657" target="_blank" rel="noopener">facebook.com/business/help/1710077379203657</a>
+- **Acerca de los portafolios comerciales** — <a href="https://www.facebook.com/business/help/486932075688253" target="_blank" rel="noopener">facebook.com/business/help/486932075688253</a>
+- **Centro de ayuda para empresas de Meta** — <a href="https://www.facebook.com/business/help" target="_blank" rel="noopener">facebook.com/business/help</a>
+- **Entrar a Business Suite / Business Manager** — <a href="https://business.facebook.com" target="_blank" rel="noopener">business.facebook.com</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Curso "Portafolio comercial en Meta Business Suite"** (Blueprint) — [facebookblueprint.com](https://www.facebookblueprint.com/student/path/219702-business-portfolio-course)
-- **Catálogo de cursos gratis de Meta Blueprint** — [facebookblueprint.com (cursos gratis)](https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog)
+- **Curso "Portafolio comercial en Meta Business Suite"** (Blueprint) — <a href="https://www.facebookblueprint.com/student/path/219702-business-portfolio-course" target="_blank" rel="noopener">facebookblueprint.com</a>
+- **Catálogo de cursos gratis de Meta Blueprint** — <a href="https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog" target="_blank" rel="noopener">facebookblueprint.com (cursos gratis)</a>
 
 ---
 
 ## ✍️ Práctica
 
-1. Crea un portafolio comercial de prueba en [business.facebook.com](https://business.facebook.com)
+1. Crea un portafolio comercial de prueba en <a href="https://business.facebook.com" target="_blank" rel="noopener">business.facebook.com</a>
    (puedes borrarlo después).
 2. Haz una lista de **los 5 activos** que un cliente de ecommerce (por ejemplo, una tienda de
    zapatos por WhatsApp) necesitaría tener dentro de su portafolio.

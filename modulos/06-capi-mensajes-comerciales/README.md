@@ -125,14 +125,14 @@ evento, **ver el estado** del envío y **revisar** los eventos enviados de cada 
 
 ## 🔗 Documentación oficial
 
-- **Conversions API para Business Messaging (oficial)** — [developers.facebook.com/docs/marketing-api/conversions-api/business-messaging](https://developers.facebook.com/docs/marketing-api/conversions-api/business-messaging/)
-- **Conversions API (general)** — [developers.facebook.com/docs/marketing-api/conversions-api](https://developers.facebook.com/docs/marketing-api/conversions-api/)
-- **WhatsApp + Conversions API (blog oficial WhatsApp Business)** — [whatsappbusiness.com/blog/conversions-api-messaging](https://whatsappbusiness.com/blog/conversions-api-messaging/)
+- **Conversions API para Business Messaging (oficial)** — <a href="https://developers.facebook.com/docs/marketing-api/conversions-api/business-messaging/" target="_blank" rel="noopener">developers.facebook.com/docs/marketing-api/conversions-api/business-messaging</a>
+- **Conversions API (general)** — <a href="https://developers.facebook.com/docs/marketing-api/conversions-api/" target="_blank" rel="noopener">developers.facebook.com/docs/marketing-api/conversions-api</a>
+- **WhatsApp + Conversions API (blog oficial WhatsApp Business)** — <a href="https://whatsappbusiness.com/blog/conversions-api-messaging/" target="_blank" rel="noopener">whatsappbusiness.com/blog/conversions-api-messaging</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Cursos gratis de Meta Blueprint** (busca "medición", "Conversions API", "eventos") — [facebookblueprint.com (cursos gratis)](https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog)
-- **Centro de ayuda para empresas (medición)** — [facebook.com/business/help](https://www.facebook.com/business/help)
+- **Cursos gratis de Meta Blueprint** (busca "medición", "Conversions API", "eventos") — <a href="https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog" target="_blank" rel="noopener">facebookblueprint.com (cursos gratis)</a>
+- **Centro de ayuda para empresas (medición)** — <a href="https://www.facebook.com/business/help" target="_blank" rel="noopener">facebook.com/business/help</a>
 
 ---
 

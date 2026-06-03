@@ -95,13 +95,13 @@ Saber cuándo usar cada uno es clave para montar un sistema eficiente (y barato)
 
 ## 🔗 Documentación oficial
 
-- **Building Effective Agents — Anthropic** (la referencia base) — [anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)
-- **Building Effective AI Agents (recursos)** — [resources.anthropic.com/building-effective-ai-agents](https://resources.anthropic.com/building-effective-ai-agents)
+- **Building Effective Agents — Anthropic** (la referencia base) — <a href="https://www.anthropic.com/engineering/building-effective-agents" target="_blank" rel="noopener">anthropic.com/engineering/building-effective-agents</a>
+- **Building Effective AI Agents (recursos)** — <a href="https://resources.anthropic.com/building-effective-ai-agents" target="_blank" rel="noopener">resources.anthropic.com/building-effective-ai-agents</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **AI Agents in LangGraph — DeepLearning.AI** (gratis, con el fundador de LangChain) — [deeplearning.ai/courses/ai-agents-in-langgraph](https://www.deeplearning.ai/courses/ai-agents-in-langgraph)
-- **Functions, Tools and Agents with LangChain — DeepLearning.AI** — [deeplearning.ai/courses/functions-tools-agents-langchain](https://www.deeplearning.ai/courses/functions-tools-agents-langchain)
+- **AI Agents in LangGraph — DeepLearning.AI** (gratis, con el fundador de LangChain) — <a href="https://www.deeplearning.ai/courses/ai-agents-in-langgraph" target="_blank" rel="noopener">deeplearning.ai/courses/ai-agents-in-langgraph</a>
+- **Functions, Tools and Agents with LangChain — DeepLearning.AI** — <a href="https://www.deeplearning.ai/courses/functions-tools-agents-langchain" target="_blank" rel="noopener">deeplearning.ai/courses/functions-tools-agents-langchain</a>
 
 ---
 

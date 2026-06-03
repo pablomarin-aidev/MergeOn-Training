@@ -92,14 +92,14 @@ gastar IA. Es exactamente el caso de uso que ahorra tokens del que hablan los fl
 
 ## 🔗 Documentación oficial
 
-- **Crear anuncios que dirijan a WhatsApp (oficial)** — [facebook.com/business/help/447934475640650](https://www.facebook.com/business/help/447934475640650)
-- **Centro de ayuda para empresas (anuncios)** — [facebook.com/business/help](https://www.facebook.com/business/help)
-- **Administrador de anuncios** — [business.facebook.com](https://business.facebook.com)
+- **Crear anuncios que dirijan a WhatsApp (oficial)** — <a href="https://www.facebook.com/business/help/447934475640650" target="_blank" rel="noopener">facebook.com/business/help/447934475640650</a>
+- **Centro de ayuda para empresas (anuncios)** — <a href="https://www.facebook.com/business/help" target="_blank" rel="noopener">facebook.com/business/help</a>
+- **Administrador de anuncios** — <a href="https://business.facebook.com" target="_blank" rel="noopener">business.facebook.com</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Cursos gratis de Meta Blueprint** (busca "anuncios", "objetivos", "Click to WhatsApp") — [facebookblueprint.com (cursos gratis)](https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog)
-- **Certificaciones de Meta** (la de nivel asociado es gratis) — [facebook.com/business/learn/certification](https://www.facebook.com/business/learn/certification)
+- **Cursos gratis de Meta Blueprint** (busca "anuncios", "objetivos", "Click to WhatsApp") — <a href="https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog" target="_blank" rel="noopener">facebookblueprint.com (cursos gratis)</a>
+- **Certificaciones de Meta** (la de nivel asociado es gratis) — <a href="https://www.facebook.com/business/learn/certification" target="_blank" rel="noopener">facebook.com/business/learn/certification</a>
 
 ---
 

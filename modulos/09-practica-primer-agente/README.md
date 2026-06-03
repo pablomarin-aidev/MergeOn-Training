@@ -17,7 +17,7 @@
 
 ## 🧰 Requisitos
 
-- **Python 3.10 o superior** instalado ([python.org/downloads](https://www.python.org/downloads/)).
+- **Python 3.10 o superior** instalado (<a href="https://www.python.org/downloads/" target="_blank" rel="noopener">python.org/downloads</a>).
 - **Claude Code** abierto en esta carpeta (es tu copiloto en toda la práctica).
 - *(Opcional, para ejecutarlo de verdad)* una **API key** de Anthropic u OpenAI.
 

@@ -82,14 +82,14 @@ un proyecto real haces primero la verificación (módulo 2) y en paralelo prepar
 
 ## 🔗 Documentación oficial
 
-- **App Review (Meta for Developers)** — [developers.facebook.com/docs/resp-plat-initiatives/individual-processes/app-review](https://developers.facebook.com/docs/resp-plat-initiatives/individual-processes/app-review)
-- **Verificación de negocio (relacionado)** — [developers.facebook.com/docs/development/release/business-verification](https://developers.facebook.com/docs/development/release/business-verification/)
-- **Meta for Developers (portal)** — [developers.facebook.com](https://developers.facebook.com)
+- **App Review (Meta for Developers)** — <a href="https://developers.facebook.com/docs/resp-plat-initiatives/individual-processes/app-review" target="_blank" rel="noopener">developers.facebook.com/docs/resp-plat-initiatives/individual-processes/app-review</a>
+- **Verificación de negocio (relacionado)** — <a href="https://developers.facebook.com/docs/development/release/business-verification/" target="_blank" rel="noopener">developers.facebook.com/docs/development/release/business-verification</a>
+- **Meta for Developers (portal)** — <a href="https://developers.facebook.com" target="_blank" rel="noopener">developers.facebook.com</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Documentación de plataforma de WhatsApp Business** (incluye flujo de apps y permisos) — [developers.facebook.com/docs/whatsapp](https://developers.facebook.com/docs/whatsapp)
-- **Cursos gratis de Meta Blueprint** — [facebookblueprint.com (cursos gratis)](https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog)
+- **Documentación de plataforma de WhatsApp Business** (incluye flujo de apps y permisos) — <a href="https://developers.facebook.com/docs/whatsapp" target="_blank" rel="noopener">developers.facebook.com/docs/whatsapp</a>
+- **Cursos gratis de Meta Blueprint** — <a href="https://www.facebookblueprint.com/student/page/512235-browse-free-courses-from-the-blueprint-catalog" target="_blank" rel="noopener">facebookblueprint.com (cursos gratis)</a>
 
 ---
 

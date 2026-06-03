@@ -89,14 +89,14 @@ MCP. Ahora entiendes **por qué** funcionan.
 
 ## 🔗 Documentación oficial
 
-- **Qué es el Model Context Protocol (intro oficial)** — [modelcontextprotocol.io/docs/getting-started/intro](https://modelcontextprotocol.io/docs/getting-started/intro)
-- **Especificación y docs de MCP (GitHub)** — [github.com/modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
-- **Documentación de Claude Code** (donde se configuran MCPs) — [code.claude.com/docs](https://code.claude.com/docs/en/setup)
+- **Qué es el Model Context Protocol (intro oficial)** — <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank" rel="noopener">modelcontextprotocol.io/docs/getting-started/intro</a>
+- **Especificación y docs de MCP (GitHub)** — <a href="https://github.com/modelcontextprotocol/modelcontextprotocol" target="_blank" rel="noopener">github.com/modelcontextprotocol/modelcontextprotocol</a>
+- **Documentación de Claude Code** (donde se configuran MCPs) — <a href="https://code.claude.com/docs/en/setup" target="_blank" rel="noopener">code.claude.com/docs</a>
 
 ## 🎓 Cursos / videos gratis
 
-- **Sitio oficial de MCP** (guías y ejemplos) — [modelcontextprotocol.io](https://modelcontextprotocol.io)
-- **Building Effective AI Agents — Anthropic** (contexto de tools/agentes) — [anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)
+- **Sitio oficial de MCP** (guías y ejemplos) — <a href="https://modelcontextprotocol.io" target="_blank" rel="noopener">modelcontextprotocol.io</a>
+- **Building Effective AI Agents — Anthropic** (contexto de tools/agentes) — <a href="https://www.anthropic.com/engineering/building-effective-agents" target="_blank" rel="noopener">anthropic.com/engineering/building-effective-agents</a>
 
 ---
 
