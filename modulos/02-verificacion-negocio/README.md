@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Por qué importa para revender
+## 💼 Por qué importa para tu trabajo
 
 Muchas funciones que tus clientes van a querer —escalar el envío de mensajes de WhatsApp,
 subir límites, acceso avanzado de la app— **exigen** que el negocio esté verificado.

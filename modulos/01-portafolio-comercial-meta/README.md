@@ -16,7 +16,7 @@ Al terminar este módulo vas a poder:
 
 ---
 
-## 💼 Por qué importa para revender
+## 💼 Por qué importa para tu trabajo
 
 Cuando le implementes MergeOn a un cliente, **lo primero** que vas a tocar es su portafolio
 comercial. Ahí viven el número de WhatsApp, la página, la cuenta de Instagram, la cuenta

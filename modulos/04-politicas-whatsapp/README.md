@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Por qué importa para revender
+## 💼 Por qué importa para tu trabajo
 
 El número de WhatsApp es el **activo más valioso** de tu cliente. Si lo restringen o lo
 bloquean por violar políticas, **pierde su canal de ventas**. Tú, como quien le montó el

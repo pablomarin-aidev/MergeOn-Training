@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Por qué importa para revender
+## 💼 Por qué importa para tu trabajo
 
 Cuando MergeOn se conecta al WhatsApp o Instagram de tu cliente, por detrás hay una **app de
 Meta** pidiendo **permisos** (enviar mensajes, leer conversaciones, etc.). Meta no entrega esos
@@ -75,7 +75,7 @@ App Review y verificación de negocio van de la mano: para acceso avanzado a API
 un proyecto real haces primero la verificación (módulo 2) y en paralelo preparas la app.
 
 > En MergeOn, gran parte de este trabajo de app ya está hecho del lado de la plataforma. Tu
-> labor como revendedor es entender el **proceso** para acompañar al cliente y explicar tiempos
+> labor como socio es entender el **proceso** para acompañar al cliente y explicar tiempos
 > y requisitos sin que te tome por sorpresa.
 
 ---

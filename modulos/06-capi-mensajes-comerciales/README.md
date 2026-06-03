@@ -16,7 +16,7 @@
 
 ---
 
-## 💼 Por qué importa para revender
+## 💼 Por qué importa para tu trabajo
 
 Este es, probablemente, **el mayor diferenciador** que puedes ofrecerle a un cliente.
 
@@ -117,7 +117,7 @@ que vino de un anuncio, MergeOn puede mandarle a Meta el evento **Purchase** con
 atándolo al anuncio que lo originó. La plataforma incluye herramientas para **previsualizar** el
 evento, **ver el estado** del envío y **revisar** los eventos enviados de cada orden.
 
-> Para ti como revendedor: no tienes que programar nada de esto. Tu trabajo es **entenderlo**
+> Para ti como socio: no tienes que programar nada de esto. Tu trabajo es **entenderlo**
 > para configurarlo bien y para **venderlo** como la ventaja que es. Lo conectaremos todo en el
 > módulo 11.
 

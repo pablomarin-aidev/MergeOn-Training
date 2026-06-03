@@ -1,0 +1,9 @@
+# Dependencias para la práctica del Módulo 9.
+# Requiere Python 3.10 o superior.
+# La función create_agent existe desde LangChain 1.0.
+
+langchain
+langchain-anthropic
+
+# Alternativa si prefieres usar OpenAI en vez de Anthropic:
+# langchain-openai

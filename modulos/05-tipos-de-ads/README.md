@@ -14,13 +14,13 @@
 
 ---
 
-## 💼 Por qué importa para revender
+## 💼 Por qué importa para tu trabajo
 
 MergeOn brilla cuando **llegan conversaciones**. Esas conversaciones vienen, en gran parte, de
 anuncios **Click-to-WhatsApp**. Si tu cliente corre el anuncio con el objetivo equivocado,
 recibe clics que no conversan y dice "esto no sirve". Si lo corre bien, el agente cierra ventas.
 
-Entender los anuncios te vuelve un revendedor **completo**: no solo montas el chat, ayudas a que
+Entender los anuncios te vuelve un socio **completo**: no solo montas el chat, ayudas a que
 llegue tráfico de calidad.
 
 ---

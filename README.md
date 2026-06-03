@@ -1,4 +1,4 @@
-# Academia MergeOn Seller — Formación para Revendedores
+# Academia MergeOn Seller — Formación para Socios
 
 Bienvenido. Este repositorio es un **curso completo** para que aprendas a implementar
 **MergeOn Seller** con tus clientes y, sobre todo, para que **entiendas qué hay detrás**:
@@ -16,7 +16,7 @@ avanzar hasta que de verdad entiendes.
 
 ## ¿Para quién es esto?
 
-Para **revendedores y partners de MergeOn Seller**. No necesitas ser programador.
+Para **socios de MergeOn Seller**. No necesitas ser programador.
 Solo necesitas ganas de aprender y seguir los pasos. Los módulos técnicos (8, 9 y 10)
 están escritos para que cualquiera los entienda, y Claude Code hace el trabajo pesado contigo.
 
@@ -34,7 +34,7 @@ están escritos para que cualquiera los entienda, y Claude Code hace el trabajo 
 Cada módulo (carpeta numerada dentro de `modulos/`) tiene un `README.md` con:
 
 - **Objetivos** — qué vas a poder hacer al terminar.
-- **Por qué importa para revender** — la conexión con tu trabajo real.
+- **Por qué importa para tu trabajo** — la conexión con tu día a día.
 - **Conceptos** — la explicación clara, con analogías.
 - **Documentación oficial** — los enlaces que de verdad valen (no blogs random).
 - **Cursos / videos gratis** — para profundizar.
@@ -114,7 +114,7 @@ cd academia-mergeon-seller
 Cuando Claude Code esté abierto, escríbele:
 
 ```
-Hola, soy revendedor de MergeOn y quiero empezar el curso. Guíame desde el módulo 1.
+Hola, soy socio de MergeOn y quiero empezar el curso. Guíame desde el módulo 1.
 ```
 
 El `CLAUDE.md` de esta carpeta ya le dice cómo enseñarte. **Él lleva el ritmo contigo.**
@@ -152,4 +152,4 @@ exacto no coincida, sigue el enlace oficial del módulo y pídele ayuda a Claude
 
 ---
 
-*Academia creada para revendedores de MergeOn Seller · https://mergeon.dev*
+*Academia creada para socios de MergeOn Seller · https://mergeon.dev*
